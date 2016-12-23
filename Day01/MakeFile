@@ -1,0 +1,2 @@
+g++ -std=c++11 -IFileParserFunctions -ITraverser -o Day1 FileParserFunctions/FileParserFunctions.cpp Traverser/Traverser.cpp Day01.cpp
+
